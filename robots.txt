@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://supayachandi.github.io/berjaya/sitemap.xml
+Sitemap: https://supayachandi.github.io/berjaya/mysite.xml
